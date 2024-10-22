@@ -2,7 +2,7 @@
 
 ## Project Images
 
-![Dashboard Screenshot](https://github.com/mensenvau/assignment_datacamp_story/The Diverse Realms of Numeria.png)
-![Graph Visual](https://github.com/your_username/your_repo_name/blob/main/images/graph.png)
-![Data Table](https://github.com/your_username/your_repo_name/blob/main/images/table.png)
-![Logo](https://github.com/your_username/your_repo_name/blob/main/images/logo.png)
+![Numeria’s Diverse Creature Landscape](./Numeria’s%20Diverse%20Creature%20Landscape.png)
+![The Diverse Realms of Numeria](./The%20Diverse%20Realms%20of%20Numeria.png)
+![The Mystical Balance of Numeria](./The%20Mystical%20Balance%20of%20Numeria.png)
+![The Vibrant Realms of Numeria](./The%20Vibrant%20Realms%20of%20Numeria.png)
